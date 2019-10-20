@@ -8,3 +8,4 @@ You can edit this file for your first pull request.
 2. Copy the url of the forked repo from your account and git clone <repo_name>.
 3. Edit the README.md file and put your name there.
 
+Rustam
